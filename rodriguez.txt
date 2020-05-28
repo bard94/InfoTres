@@ -4,4 +4,10 @@ Primer semestre
 	habilidades comunicativas   =	4.4	
 	matematica i=	3
 	fundamentos de tecnologia i =   3
-       
+   
+           segundo semestre
+matematica ii 3
+fundamentos de tecnologia ii 3 
+fisica i 3
+circuito i 3
+educacion economia y politica 3 
